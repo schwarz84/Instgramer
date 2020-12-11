@@ -1,0 +1,143 @@
+form .imageConfig {
+    padding-bottom: 15px;
+    height: 100px;
+}
+
+.pub_image{
+    margin-bottom: 15px;
+}
+
+nav .imageConfig,
+.card-header img {
+    height: 45px;
+    /* width: 40px; */
+    box-sizing: content-box;
+    border-radius: 90px;
+    margin-left: 15px;
+    /* margin-right: -60px; */
+    /* overflow: hidden; */
+}
+
+.gris {
+    color: gray !important;
+}
+
+.cursiva{
+    font-style: italic;
+}
+
+.image_container {
+    overflow: hidden;
+}
+
+.card-body .image_container img {
+    /* width: 100%;    */
+    height: 400px;
+    position: relative;
+
+}
+
+.image_container img {
+    /* overflow: hidden;  */
+    overflow-y: hidden;
+    /* bottom: -100px; */
+}
+
+.description {
+    padding: 10px;
+}
+
+.pub_image .card-body {
+    padding: 0px;
+}
+
+.like {
+    float: left;
+    padding: 10px;
+}
+.like img {
+    width: 35px;
+}
+
+.btn-comment{
+    padding: 10px;
+}
+.btn-comment a{
+    background: orange;
+}
+.show-image {
+    color: #444;
+    text-decoration: none;
+}
+.show-image:hover {
+    /* color: #444; */
+    text-decoration: none;
+}
+
+.comment {
+    padding: 20px;
+}
+
+.comment form textarea {
+    margin: 20px;
+    margin-bottom: 0px;
+}
+
+.comment form span {
+    margin-left: 20px;
+}
+
+.comment form button {
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+#comment-eliminar {
+    background-color: white;
+    color: red;
+}
+
+.titulo {
+    padding-top: 10px;
+    text-align: center;
+    color: green;
+    text-decoration: wavy;
+}
+
+.profile-header {
+    padding-bottom: 20px;
+}
+
+ .profile-header .perfil {
+    height: 100px;
+    width: 150px;
+    border-radius: 900px;
+    overflow: hidden;
+    float: left;
+}
+
+.profile-header .perfil img {
+    height: 100%;
+    width: 100%;
+}
+
+.vamoooo {
+    border-radius: 15px;
+}
+
+.profile-header span {
+    padding-left: 20px;
+}
+
+.acomodo{
+    margin-top: 13px;
+}
+
+.pub_image_detail {
+    padding: 20px;
+}
+
+.malo {
+    margin-left: 20px;
+}
+
